@@ -18,6 +18,9 @@ This idea came to my mind when I was using facebook app and due to some reason i
 * Search and Follow other Users
 * simple UI
 * Like and comment on Posts
+![Screenshot 2024-01-14 180847](https://github.com/Gobind557/devSpace/assets/72307219/37b899e6-5e7e-4753-ae3d-31b3bfdbbc21)
+![Screenshot 2024-01-14 181323](https://github.com/Gobind557/devSpace/assets/72307219/d1379c8b-273b-48fe-adcb-0b97bd36a2c9)
+![Screenshot 2024-01-14 181352](https://github.com/Gobind557/devSpace/assets/72307219/fca3b8d2-0d57-4c03-99d4-820431c9bfe8)
 
 # Steps to run 📲
 
